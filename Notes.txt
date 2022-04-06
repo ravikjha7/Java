@@ -1,0 +1,4 @@
+-> Negation of a number gives the value = -(number+1)
+-> x >>> 1 => Changes The Sign Bit Also
+-> How To Print Number in Binary Form
+System.out.println(String.format("%s",Integer.toBinaryString(x)));
